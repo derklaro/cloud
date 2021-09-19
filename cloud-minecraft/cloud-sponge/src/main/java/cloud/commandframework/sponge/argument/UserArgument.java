@@ -63,7 +63,7 @@ import java.util.stream.Collectors;
  * Argument for parsing {@link User Users} in the {@link UserManager} from
  * a {@link Selector}, last known username, or {@link UUID}.
  *
- * TODO: Update javadocs
+ * todo: Update javadocs
  *
  * @param <C> sender type
  */
